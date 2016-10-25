@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/klfzlyt/nodecrawler/issues"
   },
-  "homepage": "https://github.com/klfzlyt/nodecrawler#readme"
+  "homepage": "https://github.com/klfzlyt/nodecrawler#readme",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-router": "^5.4.0",
+    "lodash": "^4.16.4"
+  }
 }
